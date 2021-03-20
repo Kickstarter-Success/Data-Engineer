@@ -6,7 +6,7 @@ Flask-Cors==3.0.8
 Flask-SQLAlchemy==2.4.0
 gunicorn==19.9.0
 itsdangerous==1.1.0
-Jinja2==2.10.1
+Jinja2==2.11.3
 joblib==0.13.2
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.16
