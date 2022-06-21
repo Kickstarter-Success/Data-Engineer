@@ -10,7 +10,7 @@ Jinja2==2.10.1
 joblib==0.13.2
 MarkupSafe==1.1.1
 mysql-connector-python==8.0.16
-numpy==1.16.5
+numpy==1.22.0
 pandas==0.25.1
 plotly==4.1.1
 protobuf==3.6.0
